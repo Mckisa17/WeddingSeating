@@ -1,5 +1,11 @@
 # Wedding Seating Algorithm
 
+I was orignially inspired for the concept of by reading the book, [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365) by Brian Christian and Tom Griffiths. When I was then lucky enough to find myself a partner for life I was then able to test the concept out. (Little does my significant other know that was the main reason I married her, haha) 
+
+A majority of the code was already develped by [lianquu](https://github.com/linanqiu/wedding-optimization-simulated-annealing/blob/master/wedding-optimization.ipynb). Not only is the notebook hilarious and entertaining it also provides some genreal good description and eduction into how this problem is solved and the meathods. The one addition I made to the existing code base was adding in the cost funtion a cost calculation to the relationhsip score between knowing the bride or the groom between a pair of individuals. This way you would't ever wind up at a table where you and the other person have literally nothing in common and have to attempt to compliment their shirt or the weather instead of chatting about your expirences with the bride or the groom. 
+
+Please view the notebook for expanded details into the math and code that goes on behind the scenes. I had a ton of fun on this project and hope it provides some fun and guidance for you too. 
+
 ## Overview
 This project implements an optimized **wedding seating arrangement algorithm** using **Simulated Annealing**, ensuring that guests are seated in a way that minimizes conflicts and maximizes social compatibility. The algorithm evaluates relationships between guests and iteratively improves seating arrangements to achieve an optimal distribution across tables.
 
