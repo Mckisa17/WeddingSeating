@@ -45,6 +45,7 @@ Seating arrangements at weddings can significantly impact guest experience. This
          Final Cost: -11.25
    - The algorithm tracks **cost changes**, **temperature decay**, and **acceptance probability** for analysis.
         ![image](https://github.com/user-attachments/assets/3da42ac3-4048-439a-a152-37d4ff88b4ad)
+        ![image](https://github.com/user-attachments/assets/b6181a8c-237a-4394-8c41-012ba72d7ab0)
         ![image](https://github.com/user-attachments/assets/ead80b8f-7eca-4338-89cf-6ee72b6d0fd3)
 
 
