@@ -29,7 +29,24 @@ Seating arrangements at weddings can significantly impact guest experience. This
 
 4. **Output & Visualization:**
    - The final optimized seating chart is displayed.
+        Initial Seating Arrangement:
+         Table 1: Jenny Adam, Alice Adam
+         Table 2: Ava Zelda
+         Table 3: Henry Zelda, Liam Prescott
+         Table 4: Don Adam, Mason Zelda
+         Table 5: Alex Adam, Amelia Harrington, Charlotte Winslow, William Kensington
+         Initial Cost: -4.25
+         Final Seating Arrangement:
+         Table 1: 
+         Table 2: Alex Adam, Jenny Adam, Don Adam, Alice Adam
+         Table 3: Henry Zelda, Mason Zelda, Ava Zelda
+         Table 4: 
+         Table 5: Liam Prescott, Amelia Harrington, Charlotte Winslow, William Kensington
+         Final Cost: -11.25
    - The algorithm tracks **cost changes**, **temperature decay**, and **acceptance probability** for analysis.
+        ![image](https://github.com/user-attachments/assets/3da42ac3-4048-439a-a152-37d4ff88b4ad)
+        ![image](https://github.com/user-attachments/assets/ead80b8f-7eca-4338-89cf-6ee72b6d0fd3)
+
 
 ## Constraints Considered
 - **Each guest is assigned to exactly one table.**
